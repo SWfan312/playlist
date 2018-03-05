@@ -76,7 +76,7 @@ function addSong(){
  
 	console.log("click worked");
 	
-	var itemmInput = $("#item").val();
-	var quantityInput = $("#quantity").val();
+	var artistInput = $("#artist-input").val();
+	var songInput = $("#song-input").val();
   
 }
